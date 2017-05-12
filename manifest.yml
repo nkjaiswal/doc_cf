@@ -1,0 +1,9 @@
+---
+applications:
+- name: documents
+  path: target/document-0.0.1-SNAPSHOT.war
+  instances: 1
+  
+services:
+  - PostgresTest
+  - IndexingQueue
