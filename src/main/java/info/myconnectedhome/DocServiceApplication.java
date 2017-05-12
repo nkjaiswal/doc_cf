@@ -2,7 +2,7 @@ package info.myconnectedhome;
 
 import java.io.File;
 import java.util.Properties;
-
+ 
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
